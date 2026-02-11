@@ -31,7 +31,18 @@ library(tidyverse)
 library(stargazer)
 
 ## loading the data
-data <- 
+data <- read_csv("/Users/ivy/Documents/GitHub/StatsII_2026/tutorials/Week 1/tutorial01_data.csv")
+
+data <- read_csv("/Users/ivy/Documents/GitHub/StatsII_2026/tutorials/Week 1/tutorial01_data.csv",
+                 col_types = cols(
+                   `Ease of doing business rank (1=most business-friendly regulations)` = col_double(),
+                   `Tax revenue (% of GDP)` = col_double(),
+                   `GDP per capita (current US$)` = col_double()))
+
+str(data)
+ls(data)
+head(data)
+summary(data)
 
 #### Wrangling the data
 # We should now have a dataset where our variables are at least of the correct type.
@@ -47,7 +58,10 @@ data <-
   
 # 3. Let's also get rid of the variable code in square brackets
 
-names(data) <- #hint: try using the function sub() with the regexp " \\[.*"
+names(data) <- data %>%
+  select(-(starts_with('Time')),-('Country Code'))
+
+  #hint: try using the function sub() with the regexp " \\[.*"
   
 #### Analysing the data
 # Now that we have a dataset in the desired format, we can proceed to the analysis.
@@ -56,6 +70,13 @@ names(data) <- #hint: try using the function sub() with the regexp " \\[.*"
 #    Try using ggplot to create a plot of scatter showing GDP p/c vs Tax revenue. Add a
 #    simple linear regression line.
   
+
+
+data %>%
+  ggplot(aes(`Tax revenue (% of GDP)`, `GDP per capita (current US$)`)) +
+  geom_point() + 
+  geom_smooth(method = 'lm')
+
 # 2. Now let's try the same using GDP p/c vs Ease of Doing Business.
 
 # 3. And, for the sake of argument, let's see what the relationship is between Tax and
@@ -67,6 +88,13 @@ names(data) <- #hint: try using the function sub() with the regexp " \\[.*"
 # 5. Now let's run a regression!
 
 formula <- `GDP per capita (current US$)` ~ `Tax revenue (% of GDP)` + `Ease of doing business rank (1=most business-friendly regulations)`
+
+reg <- lm(formula,data)
+summary(reg)
+
+stargazer(reg, type = "latex")
+
+stargazer()
 
 # How do we interpret these results?
 

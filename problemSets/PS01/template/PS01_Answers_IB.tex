@@ -98,12 +98,19 @@ $$p(D \leq d)= \frac{\sqrt {2\pi}}{d} \sum _{k=1}^{\infty }e^{-(2k-1)^{2}\pi ^{2
 	empiricalCDF <- ECDF(data)
 	# generate test statistic
 	D <- max(abs(empiricalCDF - pnorm(data))) \end{lstlisting}
+	
+	
+\lstinputlisting[language=R, firstline=39, lastline=66]{PS01_Answers_IB.R}
+
+The test returns a value of 5.652523e-29.
 
 \vspace{3in}
 
 \section*{Question 2}
 \noindent Estimate an OLS regression in \texttt{R} that uses the Newton-Raphson algorithm (specifically \texttt{BFGS}, which is a quasi-Newton method), and show that you get the equivalent results to using \texttt{lm}. Use the code below to create your data.
 \vspace{.5cm}
-\lstinputlisting[language=R, firstline=51,lastline=53]{PS01.R} 
+\lstinputlisting[language=R, firstline=72,lastline=90]{PS01.R} 
 
+The lm regression returns an intercept of 0.13919 and an estimated slope of x of 2.72670.
+The algorithm returns 0.1398324 for the intercept and a slope of 2.7265559, both of which round up to the same values as the lm's results.
 \end{document}
