@@ -1,0 +1,51 @@
+state,houseDist,house_cand_dem,dem_house_percent,dem_house_inc,dem_house_avgIdeal,house_cand_rep,rep_house_percent,rep_house_inc,rep_house_avgIdeal,gov_cand_dem,gov_candStem_dem,dem_gov_percent,gov_inc_dem,dem_gov_avgIdeal,gov_cand_rep,gov_candStem_rep,rep_gov_percent,gov_inc_rep,rep_gov_avgIdeal
+Delaware,DE-00,Lisa Blunt Rochester,0.588486467,1,-0.79,Lee Murphy,0.411513533,0,1.04,JOHN C CARNEY JR,DE-Gov-carney_john-,0.6061546103,1,-0.37,JULIANNE E MURRAY,DE-Gov-murray_julianne-,0.3938453897,0,1.39
+Indiana,IN-01,Frank Mrvan,0.5866694321,0,-0.61,Mark Leyva,0.4133305679,0,1.24,"WOODROW ""WOODY"" MYERS",IN-Gov-myers_woodrow-,0.5085698534,0,-0.78,ERIC HOLCOMB,IN-Gov-holcumb_eric-,0.4914301466,1,0.61
+Indiana,IN-02,Pat Hackett,0.2937116749,0,-0.97,Jackie Walorski,0.7062883251,1,0.83,"WOODROW ""WOODY"" MYERS",IN-Gov-myers_woodrow-,0.2685826904,0,-0.78,ERIC HOLCOMB,IN-Gov-holcumb_eric-,0.7314173096,1,0.61
+Indiana,IN-03,Chip Coldiron,0.3298384612,0,-0.57,Jim Banks,0.6701615388,1,1.56,"WOODROW ""WOODY"" MYERS",IN-Gov-myers_woodrow-,0.2870000759,0,-0.78,ERIC HOLCOMB,IN-Gov-holcumb_eric-,0.7129999241,1,0.61
+Indiana,IN-04,Joe Mackey,0.2921847478,0,-0.84,Jim Baird,0.7078152522,1,0.65,"WOODROW ""WOODY"" MYERS",IN-Gov-myers_woodrow-,0.2572101671,0,-0.78,ERIC HOLCOMB,IN-Gov-holcumb_eric-,0.7427898329,1,0.61
+Indiana,IN-05,Christina Hale,0.4829690402,0,-0.42,Victoria Spartz,0.5170309598,0,1.19,"WOODROW ""WOODY"" MYERS",IN-Gov-myers_woodrow-,0.3789668483,0,-0.78,ERIC HOLCOMB,IN-Gov-holcumb_eric-,0.6210331517,1,0.61
+Indiana,IN-06,Jeannine Lee Lake,0.3110873761,0,-0.77,Greg Pence,0.6889126239,1,0.97,"WOODROW ""WOODY"" MYERS",IN-Gov-myers_woodrow-,0.2773342006,0,-0.78,ERIC HOLCOMB,IN-Gov-holcumb_eric-,0.7226657994,1,0.61
+Indiana,IN-07,Andre Carson,0.6243523683,1,-0.87,Susan Marie Smith,0.3756476317,0,1.2,"WOODROW ""WOODY"" MYERS",IN-Gov-myers_woodrow-,0.5858784225,0,-0.78,ERIC HOLCOMB,IN-Gov-holcumb_eric-,0.4141215775,1,0.61
+Indiana,IN-08,E. Thomasina Marsili,0.323671531,0,-0.74,Larry Bucshon,0.676328469,1,1.06,"WOODROW ""WOODY"" MYERS",IN-Gov-myers_woodrow-,0.2946429199,0,-0.78,ERIC HOLCOMB,IN-Gov-holcumb_eric-,0.7053570801,1,0.61
+Indiana,IN-09,Andy Ruff,0.401286634,0,-1.21,Trey Hollingsworth,0.598713366,1,0.77,"WOODROW ""WOODY"" MYERS",IN-Gov-myers_woodrow-,0.3767306185,0,-0.78,ERIC HOLCOMB,IN-Gov-holcumb_eric-,0.6232693815,1,0.61
+Missouri,MO-01,Cori Bush,0.8060363658,0,-1.41,Anthony Rogers,0.1939636342,0,NA,NICOLE GALLOWAY,MO-Gov-galloway_nicole-,0.8028747105,0,-0.59,MIKE PARSON,MO-Gov-parson_mike-,0.1971252895,1,0.67
+Missouri,MO-02,Jill Schupp,0.4673095772,0,-0.59,Ann Wagner,0.5326904228,1,0.9,NICOLE GALLOWAY,MO-Gov-galloway_nicole-,0.4732126484,0,-0.59,MIKE PARSON,MO-Gov-parson_mike-,0.5267873516,1,0.67
+Missouri,MO-03,Megan Rezabek,0.2909933552,0,NA,Blaine Luetkemeyer,0.7090066448,1,1.06,NICOLE GALLOWAY,MO-Gov-galloway_nicole-,0.3341472699,0,-0.59,MIKE PARSON,MO-Gov-parson_mike-,0.6658527301,1,0.67
+Missouri,MO-04,Lindsey Simmons,0.3050169745,0,-0.93,Vicky Hartzler,0.6949830255,1,1,NICOLE GALLOWAY,MO-Gov-galloway_nicole-,0.3188062875,0,-0.59,MIKE PARSON,MO-Gov-parson_mike-,0.6811937125,1,0.67
+Missouri,MO-05,Emanuel Cleaver,0.6038226362,1,-0.95,Ryan Derks,0.3961773638,0,NA,NICOLE GALLOWAY,MO-Gov-galloway_nicole-,0.5805034804,0,-0.59,MIKE PARSON,MO-Gov-parson_mike-,0.4194965196,1,0.67
+Missouri,MO-06,Gena Ross,0.3149231401,0,-0.75,Sam Graves,0.6850768599,1,1.04,NICOLE GALLOWAY,MO-Gov-galloway_nicole-,0.3841265415,0,-0.59,MIKE PARSON,MO-Gov-parson_mike-,0.6158734585,1,0.67
+Missouri,MO-07,Teresa Montseny,0.2783851499,0,-1.23,Billy Long,0.7216148501,1,1.45,NICOLE GALLOWAY,MO-Gov-galloway_nicole-,0.2782752585,0,-0.59,MIKE PARSON,MO-Gov-parson_mike-,0.7217247415,1,0.67
+Missouri,MO-08,Kathy Ellis,0.2175311063,0,-0.74,Jason Smith,0.7824688937,1,1.34,NICOLE GALLOWAY,MO-Gov-galloway_nicole-,0.2528257687,0,-0.59,MIKE PARSON,MO-Gov-parson_mike-,0.7471742313,1,0.67
+New Hampshire,NH-01,Chris Pappas,0.5261627833,1,-0.34,Matt Mowers,0.4738372167,0,1.15,DAN FELTES,NH-Gov-feltes_dan-,0.32255670870000003,0,-0.66,CHRIS SUNUNU,NH-Gov-sununu_chris-,0.6774432913,1,0.66
+New Hampshire,NH-02,Ann Kuster,0.552234374,1,-0.43,Steve Negron,0.44776562600000003,0,1.13,DAN FELTES,NH-Gov-feltes_dan-,0.3555057468,0,-0.66,CHRIS SUNUNU,NH-Gov-sununu_chris-,0.6444942532,1,0.66
+North Carolina,NC-01,G. K. Butterfield,0.5417677802,1,-0.94,Sandy Smith,0.4582322198,0,1.33,ROY COOPER,NC-Gov-cooper_roy-,0.5655027496,1,-0.48,DAN FOREST,NC-Gov-forest_dan-,0.4344972504,0,1.09
+North Carolina,NC-02,Deborah Ross,0.6438213079,0,-0.57,Alan Swain,0.3561786921,0,0.97,ROY COOPER,NC-Gov-cooper_roy-,0.6697914886,1,-0.48,DAN FOREST,NC-Gov-forest_dan-,0.3302085114,0,1.09
+North Carolina,NC-03,Daryl Farrow,0.3661598888,0,NA,Greg Murphy,0.6338401112,1,1.41,ROY COOPER,NC-Gov-cooper_roy-,0.4327262987,1,-0.48,DAN FOREST,NC-Gov-forest_dan-,0.5672737013,0,1.09
+North Carolina,NC-04,David Price,0.6732999945,1,-0.91,Robert ThomasNC,0.3267000055,0,1.42,ROY COOPER,NC-Gov-cooper_roy-,0.7009870932,1,-0.48,DAN FOREST,NC-Gov-forest_dan-,0.2990129068,0,1.09
+North Carolina,NC-05,David Wilson Brown,0.3173139806,0,-0.77,Virginia Foxx,0.6826860194,1,1.26,ROY COOPER,NC-Gov-cooper_roy-,0.3580905613,1,-0.48,DAN FOREST,NC-Gov-forest_dan-,0.6419094387,0,1.09
+North Carolina,NC-06,Kathy Manning,0.6227289139,0,-0.52,Lee Haywood,0.3772710861,0,1.17,ROY COOPER,NC-Gov-cooper_roy-,0.6519311613,1,-0.48,DAN FOREST,NC-Gov-forest_dan-,0.3480688387,0,1.09
+North Carolina,NC-07,Christopher Ward,0.3965664647,0,-0.73,David Rouzer,0.6034335353,1,1.18,ROY COOPER,NC-Gov-cooper_roy-,0.4475285785,1,-0.48,DAN FOREST,NC-Gov-forest_dan-,0.5524714215,0,1.09
+North Carolina,NC-08,Patricia Timmons-Goodson,0.4671624338,0,-0.79,Richard Hudson,0.5328375662,1,0.95,ROY COOPER,NC-Gov-cooper_roy-,0.4905996451,1,-0.48,DAN FOREST,NC-Gov-forest_dan-,0.5094003549,0,1.09
+North Carolina,NC-09,Cynthia Wallace,0.444079045,0,-0.66,Dan Bishop,0.555920955,1,1.4,ROY COOPER,NC-Gov-cooper_roy-,0.5451003544,1,-0.48,DAN FOREST,NC-Gov-forest_dan-,0.4548996456,0,1.09
+North Carolina,NC-10,David Parker,0.3109240232,0,-0.81,Patrick McHenry,0.6890759768,1,1.03,ROY COOPER,NC-Gov-cooper_roy-,0.3543025533,1,-0.48,DAN FOREST,NC-Gov-forest_dan-,0.6456974467,0,1.09
+North Carolina,NC-11,Morris Davis,0.4372167171,0,-1.04,Madison Cawthorn,0.5627832829,0,1.34,ROY COOPER,NC-Gov-cooper_roy-,0.4697196399,1,-0.48,DAN FOREST,NC-Gov-forest_dan-,0.5302803601,0,1.09
+North Carolina,NC-13,Scott Huffman,0.3181810062,0,-1.09,Ted Budd,0.6818189938,1,1.31,ROY COOPER,NC-Gov-cooper_roy-,0.3707003117,1,-0.48,DAN FOREST,NC-Gov-forest_dan-,0.6292996883,0,1.09
+North Dakota,ND-00,Zach Raknerud,0.2854612047,0,-0.91,Kelly Armstrong,0.7145387953,1,1.13,SHELLEY LENZ AND BEN VIG,ND-Gov-lenz_shelley-,0.2782651072,0,NA,DOUG BURGUM AND BRENT SANFORD,ND-Gov-burgum_doug-,0.7217348928,1,0.58
+Utah,UT-01,Darren Parry,0.3044996654,0,-0.66,Blake Moore,0.6955003346,0,1,CHRIS PETERSON,UT-Gov-peterson_chris-,0.2749946864,0,-0.83,SPENCER J COX,UT-Gov-cox_spencer-,0.7250053136,0,1
+Utah,UT-02,Kael Weston,0.3830510776,0,-0.9,Chris Stewart,0.6169489224,1,1.24,CHRIS PETERSON,UT-Gov-peterson_chris-,0.3690503564,0,-0.83,SPENCER J COX,UT-Gov-cox_spencer-,0.6309496436,0,1
+Utah,UT-03,Devin Thorpe,0.280290365,0,-0.9,John Curtis,0.719709635,1,0.93,CHRIS PETERSON,UT-Gov-peterson_chris-,0.2842139489,0,-0.83,SPENCER J COX,UT-Gov-cox_spencer-,0.7157860511,0,1
+Utah,UT-04,Ben McAdams,0.4947062942,1,-0.32,Burgess Owens,0.5052937058,0,1.31,CHRIS PETERSON,UT-Gov-peterson_chris-,0.3699182404,0,-0.83,SPENCER J COX,UT-Gov-cox_spencer-,0.6300817596,0,1
+Vermont,VT-00,Peter Welch,0.7136471073,1,-0.99,Miriam Berry,0.2863528927,0,1.08,DAVID ZUCKERMAN,VT-Gov-zuckerman_david-,0.2854044289,0,NA,PHIL SCOTT,VT-Gov-scott_phil-,0.7145955711,1,0.7
+Washington,WA-01,Suzan DelBene,0.586239976,1,-0.71,Jeffrey Beeler,0.413760024,0,0.94,JAY INSLEE,WA-Gov-inslee_jay-,0.6962014226,1,-1.06,LOREN CULP,WA-Gov-culp_loren-,0.3037985774,0,1.49
+Washington,WA-02,Rick Larsen,0.6323816508,1,-0.51,Timothy Hazelo,0.3676183492,0,1.16,JAY INSLEE,WA-Gov-inslee_jay-,0.6032033254,1,-1.06,LOREN CULP,WA-Gov-culp_loren-,0.3967966746,0,1.49
+Washington,WA-03,Carolyn Long,0.4349620796,0,-0.58,Jaime Herrera Beutler,0.5650379204,1,0.51,JAY INSLEE,WA-Gov-inslee_jay-,0.4587115631,1,-1.06,LOREN CULP,WA-Gov-culp_loren-,0.5412884369,0,1.49
+Washington,WA-04,Doug McKinley,0.3368616192,0,-0.48,Dan Newhouse,0.6631383808,1,0.56,JAY INSLEE,WA-Gov-inslee_jay-,0.3760942009,1,-1.06,LOREN CULP,WA-Gov-culp_loren-,0.6239057991,0,1.49
+Washington,WA-05,Dave Wilson,0.3859155697,0,-1.01,Cathy McMorris Rodgers,0.6140844303,1,0.95,JAY INSLEE,WA-Gov-inslee_jay-,0.4268591987,1,-1.06,LOREN CULP,WA-Gov-culp_loren-,0.5731408013,0,1.49
+Washington,WA-06,Derek Kilmer,0.5944782947,1,-0.48,Elizabeth Kreiselmaier,0.4055217053,0,1.05,JAY INSLEE,WA-Gov-inslee_jay-,0.5583485949,1,-1.06,LOREN CULP,WA-Gov-culp_loren-,0.4416514051,0,1.49
+Washington,WA-07,Pramila Jayapal,0.8318681248,1,-1.49,Craig Keller,0.1681318752,0,1.43,JAY INSLEE,WA-Gov-inslee_jay-,0.7417486731,1,-1.06,LOREN CULP,WA-Gov-culp_loren-,0.2582513269,0,1.49
+Washington,WA-08,Kim Schrier,0.5178594859,1,-0.38,Jesse Jensen,0.4821405141,0,1.03,JAY INSLEE,WA-Gov-inslee_jay-,0.6960845056,1,-1.06,LOREN CULP,WA-Gov-culp_loren-,0.3039154944,0,1.49
+Washington,WA-09,Adam Smith,0.7425961638,1,-0.91,Douglas Michael Basler,0.2574038362,0,1.35,JAY INSLEE,WA-Gov-inslee_jay-,0.7411604335,1,-1.06,LOREN CULP,WA-Gov-culp_loren-,0.2588395665,0,1.49
+West Virginia,WV-01,Natalie Cline,0.3102325493,0,-0.82,David McKinley,0.6897674507,1,0.64,BEN SALANGO,WV-Gov-salango_ben-,0.3181658608,0,-0.49,JIM JUSTICE,WV-Gov-justice_jim-,0.6818341392,1,0.71
+West Virginia,WV-02,Cathy Kunkel,0.3692352213,0,-0.84,Alex Mooney,0.6307647787,1,1.02,BEN SALANGO,WV-Gov-salango_ben-,0.35943464,0,-0.49,JIM JUSTICE,WV-Gov-justice_jim-,0.64056536,1,0.71
+West Virginia,WV-03,Hilary Turner,0.2866382355,0,-1.22,Carol Miller,0.7133617645,1,0.78,BEN SALANGO,WV-Gov-salango_ben-,0.2853306286,0,-0.49,JIM JUSTICE,WV-Gov-justice_jim-,0.7146693714,1,0.71

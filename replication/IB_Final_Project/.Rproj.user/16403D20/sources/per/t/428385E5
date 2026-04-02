@@ -1,0 +1,26 @@
+{
+    "id": "428385E5",
+    "path": "~/Downloads/dataverse_files/JOP_Replication.R",
+    "project_path": "JOP_Replication.R",
+    "type": "r_source",
+    "hash": "2182983857",
+    "contents": "",
+    "dirty": false,
+    "created": 1774915952095.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "414,31",
+        "scrollLine": "455"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1774897610,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1774897610,
+    "read_only": false,
+    "read_only_alternatives": []
+}
