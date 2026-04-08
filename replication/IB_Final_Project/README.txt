@@ -1,0 +1,1 @@
+A full explanation of how the datafiles function can be found in Original_README. h_function contains a set of "moderate" and "extremist" functions that are modified versions of existing functions to limit the dataset to only extremist or moderate data. "IB_Final_Project_Newcode.r" contains the code to create the new figures.

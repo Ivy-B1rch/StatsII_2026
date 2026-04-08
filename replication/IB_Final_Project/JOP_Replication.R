@@ -727,3 +727,4 @@ lines(YearList, res_dime_year$cf_uci,
 lines(YearList, res_dime_year$cf_lci, 
       lwd = 1, lty=2, col = "lightgreen", pch = 19)
 text(2005.8, 10.4, "CF", col= "darkgreen")
+

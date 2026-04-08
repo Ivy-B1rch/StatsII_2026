@@ -4,6 +4,7 @@
 
 This is the README for "Ideological Moderation and Success in U.S. Elections, 2020-2022" by Michael A. Bailey and Benjamin F. Reese. These files contain the data and code to replicate all of the results in the main text and the Online Appendix. More information about the ideal point estimates can be found in the Online Appendix. All of the code for the analyses was written in R.
 
+
 *****************************
 * Replication File Contents *
 *****************************
